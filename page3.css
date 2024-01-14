@@ -1,0 +1,58 @@
+.rectangle-31 {
+    background-color: #d3bfae;
+    height: 50rem;
+    position: realative;
+    width: auto;
+}
+.rectangle-32 {
+    border-radius: 0 1.5rem 1.5rem 0;
+    height: 50rem;
+    left: 0rem;
+    object-fit: cover;
+    position: absolute;
+    vertical-align: top;
+    width: 40rem;
+    top: 0rem;
+}
+
+
+.long_parag {
+    color: #070908;
+    font-family: Song Myung, 'Source Sans Pro';
+    font-size: 2rem;
+    font-weight: 600;
+    height: 22rem;
+    left: 43rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    width: 54.8rem;
+    top: 14rem;
+}
+.coffee-covet {
+    color: #070908;
+    font-family: Song Myung, 'Source Sans Pro';
+    font-size: 4rem;
+    font-weight: 600;
+    height: 5rem;
+    line-height: 1.25;
+    position: absolute;
+    text-align: center;
+    white-space: nowrap;
+    width: 27.5rem;
+    left: 55rem;
+    top: 2rem;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

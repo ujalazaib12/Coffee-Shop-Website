@@ -1,0 +1,305 @@
+.backgroundbox{
+    width: 100%;
+    height: 800px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: #D3BFAE;
+}
+
+.bgimage{
+width: 100%;
+    height: 650px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.menu-item {
+    position: absolute;
+    font-family: '', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+    font-size: 18px;
+    color: #D3BFAE;
+}
+
+.reservations {
+    left: 194px;
+    top: 14px;
+}
+
+.about {
+    left: 133px;
+    top: 14px;
+}
+
+.menu {
+    left: 76px;
+    top: 14px;
+}
+
+.home {
+    left: 15px;
+    top: 14px;
+}
+
+.contact {
+    left: 306px;
+    top: 14px;
+}
+
+
+.background {
+    width: 100%;
+    height: 150px;
+    left: 0px;
+    top: 800px;
+    position: absolute;
+    background: #021B14;
+}
+
+.tagline {
+    width: 543px;
+    left: 380px;
+    top: 850px;
+    position: absolute;
+    text-align: center;
+    color: #D3BFAE;
+    font-size: 32px;
+    font-family: 'Sofia', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.title {
+    width: 697px;
+    height: 68px;
+    left: 300px;
+    top: 680px;
+    position: absolute;
+    text-align: center;
+    color: #070908;
+    font-size: 80px;
+    font-family: 'Song Myung', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.choose-the-best {
+position: absolute;
+word-wrap: break-word;
+width: 212px;
+height: 22.83px;
+left: 300px;
+top: 35px;
+text-align: center;
+color: #070908;
+font-size: 20px;
+font-family: 'Sofia', sans-serif;
+font-weight: 400;
+}
+
+.explore-our-menu {
+width: 475px;
+height: 57.08px;
+left: 150px;
+top: 78.03px;
+text-align: center;
+color: #070908;
+font-size: 44px;
+font-family: 'Song Myung', sans-serif;
+font-weight: 400;
+position: absolute;
+word-wrap: break-word;
+}
+
+
+.size-options {
+    width: 200px;
+    height: 37.10px;
+    left: 441px;
+    top: 151.77px;
+    position: absolute;
+    text-align: center;
+    color: #070908;
+    font-size: 16px;
+    font-family: 'Sofia', sans-serif;
+    font-weight: 400;
+    word-spacing: 30px;
+    word-wrap: break-word;
+}
+
+.item{
+    width: 500px;
+    height: 57.08px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 15px;
+    border: 1px #021B14 solid;
+
+}
+.item.box-1 {
+    left: 136px;
+    top: 178.41px;
+}
+
+.item.box-2 {
+    
+    left: 136px;
+    top: 319.20px;
+    
+}
+
+.item.box-3 {
+    
+    left: 136px;
+    top: 248.80px;
+    
+}
+
+.item.box-4 {
+    
+    left: 136px;
+    top: 389.60px;
+    
+}
+
+.item.box-5 {
+   
+    left: 136px;
+    top: 460px;
+    
+}
+
+.item.box-6 {
+    
+    left: 136px;
+    top: 527.54px;
+}
+
+.coffee-item {
+    width: 250px;
+    height: 51.37px;
+    left: 164px;
+    position: absolute;
+    color: #070908;
+    font-size: 34px;
+    font-family: 'Sofia', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.price-option {
+    width: 150px;
+    height: 22.83px;
+    left: 460px;
+    position: absolute;
+    text-align: center;
+    color: #070908;
+    font-size: 15px;
+    font-family: 'Sofia', sans-serif;
+    font-weight: 400;
+    word-spacing: 30px;
+    word-wrap: break-word;
+}
+.box{
+width: 100%;
+height: 100%;
+top: 670px;
+left: 190px;
+position: relative;
+}
+
+.greenbox{
+width: 298px;
+height: 59px;
+left: 53px;
+top: 0px;
+position: absolute;
+background: #021B14;
+border-radius: 15px;
+}
+.reserve{
+width: 401px;
+height: 38px;
+left: 0px;
+top: 73px;
+position: absolute;
+text-align: center;
+color: #070908;
+font-size: 24px;
+font-family: Sofia;
+font-weight: 400;
+letter-spacing: 1.20px;
+word-wrap: break-word;
+}
+.take-care{
+width: 300px;
+height: 45px;
+left: 51px;
+top: 14px;
+position: absolute;
+text-align: center;
+color: #D3BFAE;
+font-size: 24px;
+font-family: Song Myung;
+font-weight: 400;
+letter-spacing: 1.20px;
+word-wrap: break-word;
+}
+
+.footermain{
+width: 100%;
+height: 100%;
+top: 1649px;
+position: relative;
+}
+
+.background1 {
+    width: 100%;
+    height: 258px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #021B14;
+}
+
+.content-box {
+    width: 394px;
+    height: 82px;
+    left: 355px;
+    top: 98px;
+    position: absolute;
+    background: #021B14;
+}
+
+.footer {
+    width: 493px;
+    height: 49px;
+    left: 410px;
+    top: 195px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-family: 'Song Myung', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+
+.icon-container {
+    width: 39.40px;
+    height: 40px;
+    position: absolute;
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
